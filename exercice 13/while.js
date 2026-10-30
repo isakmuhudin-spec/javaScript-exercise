@@ -1,8 +1,6 @@
 
-// let i = 5;
-
-// while (i > 0){
-//   console.log("Iteration number is : " - i)
-  
-
-// }
+let i = 5
+while(i >= 1){
+    console.log(i);
+    i--
+}
